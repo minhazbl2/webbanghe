@@ -1,5 +1,5 @@
 var list_products = [{
-    "name": "SamSung Galaxy J4+",
+    "name": "banhoc Galaxy J4+",
     "company": "banhoc",
     "img": "img/products/samsung-galaxy-j4-plus-pink-400x400.jpg",
     "price": "3.490.000",
@@ -91,7 +91,7 @@ var list_products = [{
     },
     "masp": "Nok0"
 }, {
-    "name": "Samsung Galaxy A8+ (2018)",
+    "name": "banhoc Galaxy A8+ (2018)",
     "company": "banhoc",
     "img": "img/products/samsung-galaxy-a8-plus-2018-gold-600x600.jpg",
     "price": "11.990.000",
@@ -160,7 +160,7 @@ var list_products = [{
     },
     "masp": "Opp1"
 }, {
-    "name": "Samsung Galaxy J8",
+    "name": "banhoc Galaxy J8",
     "company": "banhoc",
     "img": "img/products/samsung-galaxy-j8-600x600-600x600.jpg",
     "price": "6.290.000",
@@ -482,7 +482,7 @@ var list_products = [{
     },
     "masp": "Nok1"
 }, {
-    "name": "Samsung Galaxy A7 (2018)",
+    "name": "banhoc Galaxy A7 (2018)",
     "company": "banhoc",
     "img": "https://cdn.tgdd.vn/Products/Images/42/194327/samsung-galaxy-a7-2018-128gb-black-400x400.jpg",
     "price": "8.990.000",
