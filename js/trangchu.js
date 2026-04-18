@@ -30,7 +30,7 @@ window.onload = function () {
 
 	// Thêm danh sách hãng điện thoại
 	var company = ["banhoc.PNG", "bantho.PNG", "cuaphong.PNG", "dentreo.PNG", "ghe.PNG", "giuongngu.PNG",
-		"kesach.PNG", "Ketu.PNG", "maydieuhoa.PNG", "maygiat.PNG", "mocdo.PNG", "remcua.PNG",
+		"kesach.PNG", "ketu.PNG", "maydieuhoa.PNG", "maygiat.PNG", "mocdo.PNG", "remcua.PNG",
 		"thamtrai.PNG", "tugiaydep.PNG", "tulanh.PNG"
 	];
 	for (var c of company) addCompany("img/company/" + c, c.slice(0, c.length - 4));
