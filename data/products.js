@@ -827,8 +827,8 @@ var list_products = [{
     },
     "masp": "Mobe2"
 }, {
-    "name": "Itel P32",
-    "company": "Itel",
+    "name": "Tu giay dep P32",
+    "company": "tugiaydep",
     "img": "https://cdn.tgdd.vn/Products/Images/42/186851/itel-p32-gold-600x600.jpg",
     "price": "1.890.000",
     "star": 4,
@@ -850,8 +850,8 @@ var list_products = [{
     },
     "masp": "Ite0"
 }, {
-    "name": "Itel A32F",
-    "company": "Itel",
+    "name": "Tu giay dep A32F",
+    "company": "tugiaydep",
     "img": "https://cdn.tgdd.vn/Products/Images/42/193990/itel-a32f-pink-gold-600x600.jpg",
     "price": "1.350.000",
     "star": 5,
@@ -873,8 +873,8 @@ var list_products = [{
     },
     "masp": "Ite1"
 }, {
-    "name": "Itel it2123",
-    "company": "Itel",
+    "name": "Tu giay dep it2123",
+    "company": "tugiaydep",
     "img": "https://cdn.tgdd.vn/Products/Images/42/146651/itel-it2123-d-300-300x300.jpg",
     "price": "160.000",
     "star": 5,
@@ -896,8 +896,8 @@ var list_products = [{
     },
     "masp": "Ite2"
 }, {
-    "name": "Itel it2161",
-    "company": "Itel",
+    "name": "Tu giay dep it2161",
+    "company": "tugiaydep",
     "img": "https://cdn.tgdd.vn/Products/Images/42/193989/itel-it2161-600x600.jpg",
     "price": "170.000",
     "star": 5,
@@ -919,8 +919,8 @@ var list_products = [{
     },
     "masp": "Ite3"
 }, {
-    "name": "Coolpad N3D",
-    "company": "Coolpad",
+    "name": "May dieu hoa N3D",
+    "company": "maydieuhoa",
     "img": "https://cdn.tgdd.vn/Products/Images/42/193504/coolpad-n3d-blue-600x600.jpg",
     "price": "2.390.000",
     "star": 0,
@@ -942,8 +942,8 @@ var list_products = [{
     },
     "masp": "Coo0"
 }, {
-    "name": "Coolpad N3",
-    "company": "Coolpad",
+    "name": "May dieu hoa N3",
+    "company": "maydieuhoa",
     "img": "https://cdn.tgdd.vn/Products/Images/42/193502/coolpad-n3-gray-1-600x600.jpg",
     "price": "1.890.000",
     "star": 3,
@@ -965,8 +965,8 @@ var list_products = [{
     },
     "masp": "Coo1"
 }, {
-    "name": "Coolpad N3 mini",
-    "company": "Coolpad",
+    "name": "May dieu hoa N3 mini",
+    "company": "maydieuhoa",
     "img": "https://cdn.tgdd.vn/Products/Images/42/193503/coolpad-n3-mini-600x600.jpg",
     "price": "1.390.000",
     "star": 4,
@@ -988,8 +988,8 @@ var list_products = [{
     },
     "masp": "Coo2"
 }, {
-    "name": "HTC U12 life",
-    "company": "HTC",
+    "name": "May giat U12 life",
+    "company": "maygiat",
     "img": "https://cdn.tgdd.vn/Products/Images/42/186397/htc-u12-life-1-600x600.jpg",
     "price": "7.690.000",
     "star": 4,
@@ -1011,9 +1011,9 @@ var list_products = [{
     },
     "masp": "HTC0"
 }, {
-    "name": "Motorola Moto C 4G",
-    "company": "Motorola",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/109099/motorola-moto-c-4g-300-300x300.jpg",
+    "name": "Moc do Moto C 4G",
+    "company": "mocdo",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/109099/-moto-c-4g-300-300x300.jpg",
     "price": "1.290.000",
     "star": 4,
     "rateCount": 14,
