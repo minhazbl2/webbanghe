@@ -45,8 +45,8 @@ var list_products = [{
     },
     "masp": "Xia0"
 }, {
-    "name": "Oppo F9",
-    "company": "Oppo",
+    "name": "Ghe F9",
+    "company": "ghe",
     "img": "img/products/oppo-f9-red-600x600.jpg",
     "price": "7.690.000",
     "star": 5,
@@ -114,8 +114,8 @@ var list_products = [{
     },
     "masp": "Sam1"
 }, {
-    "name": "iPhone X 256GB Silver",
-    "company": "Apple",
+    "name": "Tham trai X 256GB Silver",
+    "company": "thamtrai",
     "img": "img/products/iphone-x-256gb-silver-400x400.jpg",
     "price": "31.990.000",
     "star": 4,
@@ -129,7 +129,7 @@ var list_products = [{
         "os": "iOS 11",
         "camara": "2 camera 12 MP",
         "camaraFront": "7 MP",
-        "cpu": "Apple A11 Bionic 6 nhân",
+        "cpu": "thamtrai A11 Bionic 6 nhân",
         "ram": "3 GB",
         "rom": "256 GB",
         "microUSB": "Không",
@@ -137,8 +137,8 @@ var list_products = [{
     },
     "masp": "App0"
 }, {
-    "name": "Oppo A3s 32GB",
-    "company": "Oppo",
+    "name": "Ghe A3s 32GB",
+    "company": "ghe",
     "img": "img/products/oppo-a3s-32gb-600x600.jpg",
     "price": "4.690.000",
     "star": 0,
@@ -184,7 +184,7 @@ var list_products = [{
     "masp": "Sam2"
 }, {
     "name": "iPad 2018 Wifi 32GB",
-    "company": "Apple",
+    "company": "thamtrai",
     "img": "img/products/ipad-wifi-32gb-2018-thumb-600x600.jpg",
     "price": "8.990.000",
     "star": 0,
@@ -198,7 +198,7 @@ var list_products = [{
         "os": "\tiOS 11.3",
         "camara": "8 MP",
         "camaraFront": "1.2 MP",
-        "cpu": "Apple A10 Fusion, 2.34 GHz",
+        "cpu": "thamtrai A10 Fusion, 2.34 GHz",
         "ram": "2 GB",
         "rom": "32 GB",
         "microUSB": "Không",
@@ -206,8 +206,8 @@ var list_products = [{
     },
     "masp": "App1"
 }, {
-    "name": "iPhone 7 Plus 32GB",
-    "company": "Apple",
+    "name": "Tham trai 7 Plus 32GB",
+    "company": "thamtrai",
     "img": "img/products/iphone-7-plus-32gb-hh-600x600.jpg",
     "price": "17.000.000",
     "star": 0,
@@ -221,7 +221,7 @@ var list_products = [{
         "os": "iOS 11",
         "camara": "2 camera 12 MP",
         "camaraFront": "7 MP",
-        "cpu": "Apple A10 Fusion 4 nhân 64-bit",
+        "cpu": "thamtrai A10 Fusion 4 nhân 64-bit",
         "ram": "3 GB",
         "rom": "32 GB",
         "microUSB": "Không",
@@ -390,8 +390,8 @@ var list_products = [{
     },
     "masp": "Xia3"
 }, {
-    "name": "Huawei Mate 20 Pro",
-    "company": "Huawei",
+    "name": "Tu lanh Mate 20 Pro",
+    "company": "tulanh",
     "img": "img/products/huawei-mate-20-pro-green-600x600.jpg",
     "price": "21.990.000",
     "star": 5,
@@ -413,8 +413,8 @@ var list_products = [{
     },
     "masp": "Hua0"
 }, {
-    "name": "Huawei Nova 3",
-    "company": "Huawei",
+    "name": "Tu lanh Nova 3",
+    "company": "tulanh",
     "img": "img/products/huawei-nova-3-2-600x600.jpg",
     "price": "9.990.000",
     "star": 4,
@@ -436,8 +436,8 @@ var list_products = [{
     },
     "masp": "Hua1"
 }, {
-    "name": "Huawei Y5 2017",
-    "company": "Huawei",
+    "name": "Tu lanh Y5 2017",
+    "company": "tulanh",
     "img": "img/products/huawei-y5-2017-300x300.jpg",
     "price": "1.990.000",
     "star": 5,
@@ -507,7 +507,7 @@ var list_products = [{
 }, {
     "name": "Realme 2 Pro 8GB/128GB",
     "company": "Realme",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/192002/oppo-realme-2-pro-black-600x600.jpg",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/192002/-realme-2-pro-black-600x600.jpg",
     "price": "6.990.000",
     "star": 5,
     "rateCount": 16,
@@ -1034,8 +1034,8 @@ var list_products = [{
     },
     "masp": "Mot0"
 }, {
-    "name": "iPhone Xr 128GB",
-    "company": "Apple",
+    "name": "Tham trai Xr 128GB",
+    "company": "thamtrai",
     "img": "https://cdn.tgdd.vn/Products/Images/42/191483/iphone-xr-128gb-red-600x600.jpg",
     "price": "24.990.000",
     "star": 0,
@@ -1049,7 +1049,7 @@ var list_products = [{
         "os": "iOS 12",
         "camara": "12 MP",
         "camaraFront": "7 MP",
-        "cpu": "Apple A12 Bionic 6 nhân",
+        "cpu": "thamtrai A12 Bionic 6 nhân",
         "ram": "3 GB",
         "rom": "128 GB",
         "microUSB": "Không",
@@ -1057,8 +1057,8 @@ var list_products = [{
     },
     "masp": "App3"
 }, {
-    "name": "iPhone 8 Plus 64GB",
-    "company": "Apple",
+    "name": "Tham trai 8 Plus 64GB",
+    "company": "thamtrai",
     "img": "https://cdn.tgdd.vn/Products/Images/42/114110/iphone-8-plus-hh-600x600.jpg",
     "price": "20.990.000",
     "star": 5,
@@ -1072,7 +1072,7 @@ var list_products = [{
         "os": "iOS 11",
         "camara": "2 camera 12 MP",
         "camaraFront": "7 MP",
-        "cpu": "Apple A11 Bionic 6 nhân",
+        "cpu": "thamtrai A11 Bionic 6 nhân",
         "ram": "3 GB",
         "rom": "64 GB",
         "microUSB": "Không",
@@ -1080,8 +1080,8 @@ var list_products = [{
     },
     "masp": "App4"
 }, {
-    "name": "iPhone 8 Plus 256GB",
-    "company": "Apple",
+    "name": "Thamtrai 8 Plus 256GB",
+    "company": "thamtrai",
     "img": "https://cdn.tgdd.vn/Products/Images/42/114114/iphone-8-plus-256gb-red-600x600.jpg",
     "price": "25.790.000",
     "star": 5,
@@ -1095,7 +1095,7 @@ var list_products = [{
         "os": "iOS 11",
         "camara": "12 MP",
         "camaraFront": "7 MP",
-        "cpu": "Apple A11 Bionic 6 nhân",
+        "cpu": "thamtrai A11 Bionic 6 nhân",
         "ram": "2 GB",
         "rom": "256 GB",
         "microUSB": "Không",
@@ -1103,8 +1103,8 @@ var list_products = [{
     },
     "masp": "App5"
 }, {
-    "name": "iPhone Xr 64GB",
-    "company": "Apple",
+    "name": "Tham trai Xr 64GB",
+    "company": "thamtrai",
     "img": "https://cdn.tgdd.vn/Products/Images/42/190325/iphone-xr-black-400x460.png",
     "price": "22.990.000",
     "star": 4,
@@ -1118,15 +1118,15 @@ var list_products = [{
         "os": "iOS 12",
         "camara": "12 MP",
         "camaraFront": "7 MP",
-        "cpu": "Apple A12 Bionic 6 nhân",
+        "cpu": "thamtrai A12 Bionic 6 nhân",
         "ram": "3 GB",
         "rom": "64 GB",
         "battery": "2942 mAh, có sạc nhanh"
     },
     "masp": "App6"
 }, {
-    "name": "Huawei Nova 2i",
-    "company": "Huawei",
+    "name": "Tu lanh Nova 2i",
+    "company": "tulanh",
     "img": "https://cdn.tgdd.vn/Products/Images/42/157031/samsung-galaxy-a6-2018-2-600x600.jpg",
     "price": "4.490.000",
     "star": 4,
