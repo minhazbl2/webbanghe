@@ -273,7 +273,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
         "battery": "3000 mAh"
     },
-    "masp": "Mob0"
+    "masp": "ketu0"
 }, {
     "name": "Ke tu Zumbo S2 Dual",
     "company": "ketu",
@@ -296,7 +296,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
         "battery": "3000 mAh"
     },
-    "masp": "Mob1"
+    "masp": "ketu1"
 }, {
     "name": "Ke tu E Selfie",
     "company": "ketu",
@@ -319,7 +319,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
         "battery": "3900 mAh"
     },
-    "masp": "Mob2"
+    "masp": "ketu2"
 }, {
     "name": "Ke tu B310",
     "company": "ketu",
@@ -342,7 +342,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "800 mAh"
     },
-    "masp": "Mob3"
+    "masp": "ketu3"
 }, {
     "name": "Ban tho Redmi Note 5",
     "company": "bantho",
@@ -779,7 +779,7 @@ var list_products = [{
         "microUSB": "Không",
         "battery": "1200 mAh"
     },
-    "masp": "Mobe0"
+    "masp": "kesach0"
 }, {
     "name": "Ke sach Rock 3",
     "company": "kesach",
@@ -802,7 +802,7 @@ var list_products = [{
         "microUSB": "Không",
         "battery": "5000 mAh"
     },
-    "masp": "Mobe1"
+    "masp": "kesach1"
 }, {
     "name": "Ke sach S60",
     "company": "kesach",
@@ -825,7 +825,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "2650 mAh"
     },
-    "masp": "Mobe2"
+    "masp": "kesach2"
 }, {
     "name": "Tu giay dep P32",
     "company": "tugiaydep",
@@ -848,7 +848,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "4000 mAh"
     },
-    "masp": "Ite0"
+    "masp": "tugiaydep0"
 }, {
     "name": "Tu giay dep A32F",
     "company": "tugiaydep",
@@ -871,7 +871,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "2050 mAh"
     },
-    "masp": "Ite1"
+    "masp": "tugiaydep1"
 }, {
     "name": "Tu giay dep it2123",
     "company": "tugiaydep",
@@ -894,7 +894,7 @@ var list_products = [{
         "microUSB": "Không",
         "battery": "1000 mAh"
     },
-    "masp": "Ite2"
+    "masp": "tugiaydep2"
 }, {
     "name": "Tu giay dep it2161",
     "company": "tugiaydep",
@@ -917,7 +917,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "1000 mAh"
     },
-    "masp": "Ite3"
+    "masp": "tugiaydep3"
 }, {
     "name": "May dieu hoa N3D",
     "company": "maydieuhoa",
@@ -940,7 +940,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "2500 mAh"
     },
-    "masp": "Coo0"
+    "masp": "maydieuhoa0"
 }, {
     "name": "May dieu hoa N3",
     "company": "maydieuhoa",
@@ -963,7 +963,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "2300 mAh"
     },
-    "masp": "Coo1"
+    "masp": "maydieuhoa1"
 }, {
     "name": "May dieu hoa N3 mini",
     "company": "maydieuhoa",
@@ -986,7 +986,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "2000 mAh"
     },
-    "masp": "Coo2"
+    "masp": "maydieuhoa2"
 }, {
     "name": "May giat U12 life",
     "company": "maygiat",
@@ -1009,7 +1009,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 512 GB",
         "battery": "3600 mAh"
     },
-    "masp": "HTC0"
+    "masp": "maygiat0"
 }, {
     "name": "Moc do Moto C 4G",
     "company": "mocdo",
@@ -1032,7 +1032,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "2350 mAh"
     },
-    "masp": "Mot0"
+    "masp": "mocdo0"
 }, {
     "name": "Tham trai Xr 128GB",
     "company": "thamtrai",
