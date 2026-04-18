@@ -20,11 +20,11 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
         "battery": "3300 mAh"
     },
-    "masp": "Sam0"
+    "masp": "banhoc0"
 }, {
     "name": "Ban tho Mi 8 Lite",
     "company": "bantho",
-    "img": "img/products/xiaomi-mi-8-lite-black-1-600x600.jpg",
+    "img": "img/products/omi-mi-8-lite-black-1-600x600.jpg",
     "price": "6.690.000",
     "star": 0,
     "rateCount": 0,
@@ -43,7 +43,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 512 GB",
         "battery": "3300 mAh, có sạc nhanh"
     },
-    "masp": "Xia0"
+    "masp": "bantho0"
 }, {
     "name": "Ghe F9",
     "company": "ghe",
@@ -66,7 +66,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
         "battery": "3500 mAh, có sạc nhanh"
     },
-    "masp": "Opp0"
+    "masp": "ghe0"
 }, {
     "name": "Giuong ngu 5.1 Plus",
     "company": "giuongngu",
@@ -89,7 +89,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
         "battery": "3060 mAh, có sạc nhanh"
     },
-    "masp": "Nok0"
+    "masp": "giuongngu0"
 }, {
     "name": "banhoc Galaxy A8+ (2018)",
     "company": "banhoc",
@@ -112,7 +112,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
         "battery": "3500 mAh, có sạc nhanh"
     },
-    "masp": "Sam1"
+    "masp": "banhoc1"
 }, {
     "name": "Tham trai X 256GB Silver",
     "company": "thamtrai",
@@ -135,7 +135,7 @@ var list_products = [{
         "microUSB": "Không",
         "battery": "2716 mAh, có sạc nhanh"
     },
-    "masp": "App0"
+    "masp": "thamtrai0"
 }, {
     "name": "Ghe A3s 32GB",
     "company": "ghe",
@@ -158,7 +158,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
         "battery": "4230 mAh"
     },
-    "masp": "Opp1"
+    "masp": "ghe1"
 }, {
     "name": "banhoc Galaxy J8",
     "company": "banhoc",
@@ -181,7 +181,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
         "battery": "3500 mAh"
     },
-    "masp": "Sam2"
+    "masp": "banhoc2"
 }, {
     "name": "iPad 2018 Wifi 32GB",
     "company": "thamtrai",
@@ -204,7 +204,7 @@ var list_products = [{
         "microUSB": "Không",
         "battery": "Chưa có thông số cụ thể"
     },
-    "masp": "App1"
+    "masp": "thamtrai1"
 }, {
     "name": "Tham trai 7 Plus 32GB",
     "company": "thamtrai",
@@ -227,7 +227,7 @@ var list_products = [{
         "microUSB": "Không",
         "battery": "2900 mAh"
     },
-    "masp": "App2"
+    "masp": "thamtrai2"
 }, {
     "name": "Ban tho Mi 8",
     "company": "bantho",
@@ -250,7 +250,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 512 GB",
         "battery": "3300 mAh, có sạc nhanh"
     },
-    "masp": "Xia1"
+    "masp": "bantho1"
 }, {
     "name": "Ke tu X",
     "company": "ketu",
@@ -365,11 +365,11 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
         "battery": "4000 mAh, có sạc nhanh"
     },
-    "masp": "Xia2"
+    "masp": "bantho2"
 }, {
     "name": "Ban tho Redmi 5 Plus 4GB",
     "company": "bantho",
-    "img": "img/products/xiaomi-redmi-5-plus-600x600.jpg",
+    "img": "img/products/omi-redmi-5-plus-600x600.jpg",
     "price": "4.790.000",
     "star": 4,
     "rateCount": 347,
@@ -388,7 +388,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
         "battery": "4000 mAh"
     },
-    "masp": "Xia3"
+    "masp": "bantho3"
 }, {
     "name": "Tu lanh Mate 20 Pro",
     "company": "tulanh",
@@ -411,7 +411,7 @@ var list_products = [{
         "microUSB": "NM card, hỗ trợ tối đa 512 GB",
         "battery": "4200 mAh, có sạc nhanh"
     },
-    "masp": "Hua0"
+    "masp": "tulanh0"
 }, {
     "name": "Tu lanh Nova 3",
     "company": "tulanh",
@@ -434,7 +434,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
         "battery": "3750 mAh, có sạc nhanh"
     },
-    "masp": "Hua1"
+    "masp": "tulanh1"
 }, {
     "name": "Tu lanh Y5 2017",
     "company": "tulanh",
@@ -457,7 +457,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
         "battery": "3000 mAh"
     },
-    "masp": "Hua2"
+    "masp": "tulanh2"
 }, {
     "name": " black future",
     "company": "",
@@ -480,7 +480,7 @@ var list_products = [{
         "microUSB": "Không cần",
         "battery": "Không cần sạc"
     },
-    "masp": "Nok1"
+    "masp": "giuongngu1"
 }, {
     "name": "banhoc Galaxy A7 (2018)",
     "company": "banhoc",
@@ -503,7 +503,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 512 GB",
         "battery": "3300 mAh"
     },
-    "masp": "Sam3"
+    "masp": "banhoc3"
 }, {
     "name": "Den treo 2 Pro 8GB/128GB",
     "company": "dentreo",
@@ -526,7 +526,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
         "battery": "3500 mAh"
     },
-    "masp": "Rea0"
+    "masp": "dentreo0"
 }, {
     "name": "Den treo 2 4GB/64GB",
     "company": "dentreo",
@@ -549,7 +549,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
         "battery": "4230 mAh"
     },
-    "masp": "Rea1"
+    "masp": "dentreo1"
 }, {
     "name": "Den treo C1",
     "company": "dentreo",
@@ -572,7 +572,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
         "battery": "4230 mAh"
     },
-    "masp": "Rea2"
+    "masp": "dentreo2"
 }, {
     "name": "Den treo 2 Pro 4GB/64GB",
     "company": "dentreo",
@@ -595,7 +595,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
         "battery": "3500 mAh"
     },
-    "masp": "Rea3"
+    "masp": "dentreo3"
 }, {
     "name": "Cua phong E331",
     "company": "cuaphong",
@@ -618,7 +618,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 16 GB",
         "battery": "1600 mAh"
     },
-    "masp": "Phi0"
+    "masp": "cuaphong0"
 }, {
     "name": "Cua phong S329",
     "company": "cuaphong",
@@ -641,7 +641,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 64 GB",
         "battery": "3000 mAh"
     },
-    "masp": "Phi1"
+    "masp": "cuaphong1"
 }, {
     "name": "Cua phong E103",
     "company": "cuaphong",
@@ -664,7 +664,7 @@ var list_products = [{
         "microUSB": "Không",
         "battery": "1050 mAh"
     },
-    "masp": "Phi2"
+    "masp": "cuaaphong2"
 }, {
     "name": "Rem cua V11",
     "company": "Remcua",
@@ -687,7 +687,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
         "battery": "3400 mAh, có sạc nhanh"
     },
-    "masp": "Viv0"
+    "masp": "remcua0"
 }, {
     "name": "Rem cua V9",
     "company": "remcua",
@@ -710,7 +710,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
         "battery": "3260 mAh"
     },
-    "masp": "Viv1"
+    "masp": "remcua1"
 }, {
     "name": "Rem cua Y85",
     "company": "remcua",
@@ -733,7 +733,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
         "battery": "3260 mAh"
     },
-    "masp": "Viv2"
+    "masp": "remcua2"
 }, {
     "name": "Rem cua Y71",
     "company": "remcua",
@@ -756,7 +756,7 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
         "battery": "3360 mAh"
     },
-    "masp": "Viv3"
+    "masp": "remcua3"
 }, {
     "name": "Ke sach M789",
     "company": "kesach",
@@ -1055,7 +1055,7 @@ var list_products = [{
         "microUSB": "Không",
         "battery": "2942 mAh, có sạc nhanh"
     },
-    "masp": "App3"
+    "masp": "thamtrai3"
 }, {
     "name": "Tham trai 8 Plus 64GB",
     "company": "thamtrai",
@@ -1078,7 +1078,7 @@ var list_products = [{
         "microUSB": "Không",
         "battery": "2691 mAh, có sạc nhanh"
     },
-    "masp": "App4"
+    "masp": "thamtrai4"
 }, {
     "name": "Thamtrai 8 Plus 256GB",
     "company": "thamtrai",
@@ -1101,7 +1101,7 @@ var list_products = [{
         "microUSB": "Không",
         "battery": "1821 mAh, có sạc nhanh"
     },
-    "masp": "App5"
+    "masp": "thamtrai5"
 }, {
     "name": "Tham trai Xr 64GB",
     "company": "thamtrai",
@@ -1123,7 +1123,7 @@ var list_products = [{
         "rom": "64 GB",
         "battery": "2942 mAh, có sạc nhanh"
     },
-    "masp": "App6"
+    "masp": "thamtrai6"
 }, {
     "name": "Tu lanh Nova 2i",
     "company": "tulanh",
@@ -1146,5 +1146,5 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
         "battery": "3340 mAh"
     },
-    "masp": "Hua3"
+    "masp": "tulanh3"
 }]
