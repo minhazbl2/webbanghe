@@ -29,9 +29,9 @@ window.onload = function () {
 	for (var t of tags) addTags(t, "index.html?search=" + t);
 
 	// Thêm danh sách hãng điện thoại
-	var company = ["Apple.jpg", "banhoc.jpg", "Oppo.jpg", "Nokia.jpg", "Huawei.jpg", "Xiaomi.png",
-		"Realme.png", "Vivo.jpg", "Philips.jpg", "Mobell.jpg", "Mobiistar.jpg", "Itel.jpg",
-		"Coolpad.png", "HTC.jpg", "Motorola.jpg"
+	var company = ["banhoc.PNG", "bantho.PNG", "cuaphong.PNG", "dentreo.PNG", "ghe.PNG", "giuongngu.PNG",
+		"kesach.PNG", "Ketu.PNG", "maydieuhoa.PNG", "maygiat.PNG", "mocdo.PNG", "remcua.PNG",
+		"thamtrai.PNG", "tugiaydep.PNG", "tulanh.PNG"
 	];
 	for (var c of company) addCompany("img/company/" + c, c.slice(0, c.length - 4));
 
