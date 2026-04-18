@@ -22,8 +22,8 @@ var list_products = [{
     },
     "masp": "Sam0"
 }, {
-    "name": "Xiaomi Mi 8 Lite",
-    "company": "Xiaomi",
+    "name": "Ban tho Mi 8 Lite",
+    "company": "bantho",
     "img": "img/products/xiaomi-mi-8-lite-black-1-600x600.jpg",
     "price": "6.690.000",
     "star": 0,
@@ -68,8 +68,8 @@ var list_products = [{
     },
     "masp": "Opp0"
 }, {
-    "name": "Nokia 5.1 Plus",
-    "company": "Nokia",
+    "name": "Giuong ngu 5.1 Plus",
+    "company": "giuongngu",
     "img": "img/products/nokia-51-plus-black-18thangbh-400x400.jpg",
     "price": "4.790.000",
     "star": 5,
@@ -229,8 +229,8 @@ var list_products = [{
     },
     "masp": "App2"
 }, {
-    "name": "Xiaomi Mi 8",
-    "company": "Xiaomi",
+    "name": "Ban tho Mi 8",
+    "company": "bantho",
     "img": "img/products/xiaomi-mi-8-1-600x600.jpg",
     "price": "12.990.000",
     "star": 0,
@@ -252,8 +252,8 @@ var list_products = [{
     },
     "masp": "Xia1"
 }, {
-    "name": "Mobiistar X",
-    "company": "Mobiistar",
+    "name": "Ke tu X",
+    "company": "ketu",
     "img": "img/products/mobiistar-x-3-600x600.jpg",
     "price": "3.490.000",
     "star": 4,
@@ -275,8 +275,8 @@ var list_products = [{
     },
     "masp": "Mob0"
 }, {
-    "name": "Mobiistar Zumbo S2 Dual",
-    "company": "Mobiistar",
+    "name": "Ke tu Zumbo S2 Dual",
+    "company": "ketu",
     "img": "img/products/mobiistar-zumbo-s2-dual-300x300.jpg",
     "price": "2.850.000",
     "star": 4,
@@ -298,8 +298,8 @@ var list_products = [{
     },
     "masp": "Mob1"
 }, {
-    "name": "Mobiistar E Selfie",
-    "company": "Mobiistar",
+    "name": "Ke tu E Selfie",
+    "company": "ketu",
     "img": "img/products/mobiistar-e-selfie-300-1copy-600x600.jpg",
     "price": "2.490.000",
     "star": 4,
@@ -321,8 +321,8 @@ var list_products = [{
     },
     "masp": "Mob2"
 }, {
-    "name": "Mobiistar B310",
-    "company": "Mobiistar",
+    "name": "Ke tu B310",
+    "company": "ketu",
     "img": "img/products/mobiistar-b310-orange-600x600.jpg",
     "price": "260.000",
     "star": 5,
@@ -344,8 +344,8 @@ var list_products = [{
     },
     "masp": "Mob3"
 }, {
-    "name": "Xiaomi Redmi Note 5",
-    "company": "Xiaomi",
+    "name": "Ban tho Redmi Note 5",
+    "company": "bantho",
     "img": "img/products/xiaomi-redmi-note-5-pro-600x600.jpg",
     "price": "5.690.000",
     "star": 4,
@@ -367,8 +367,8 @@ var list_products = [{
     },
     "masp": "Xia2"
 }, {
-    "name": "Xiaomi Redmi 5 Plus 4GB",
-    "company": "Xiaomi",
+    "name": "Ban tho Redmi 5 Plus 4GB",
+    "company": "bantho",
     "img": "img/products/xiaomi-redmi-5-plus-600x600.jpg",
     "price": "4.790.000",
     "star": 4,
@@ -459,9 +459,9 @@ var list_products = [{
     },
     "masp": "Hua2"
 }, {
-    "name": "Nokia black future",
-    "company": "Nokia",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/22701/dien-thoai-di-dong-Nokia-1280-dienmay.com-l.jpg",
+    "name": " black future",
+    "company": "",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/22701/dien-thoai-di-dong--1280-dienmay.com-l.jpg",
     "price": "999.999.000",
     "star": 5,
     "rateCount": 9999,
@@ -505,8 +505,8 @@ var list_products = [{
     },
     "masp": "Sam3"
 }, {
-    "name": "Realme 2 Pro 8GB/128GB",
-    "company": "Realme",
+    "name": "Den treo 2 Pro 8GB/128GB",
+    "company": "dentreo",
     "img": "https://cdn.tgdd.vn/Products/Images/42/192002/-realme-2-pro-black-600x600.jpg",
     "price": "6.990.000",
     "star": 5,
@@ -528,8 +528,8 @@ var list_products = [{
     },
     "masp": "Rea0"
 }, {
-    "name": "Realme 2 4GB/64GB",
-    "company": "Realme",
+    "name": "Den treo 2 4GB/64GB",
+    "company": "dentreo",
     "img": "https://cdn.tgdd.vn/Products/Images/42/193462/realme-2-4gb-64gb-docquyen-600x600.jpg",
     "price": "4.490.000",
     "star": 5,
@@ -551,8 +551,8 @@ var list_products = [{
     },
     "masp": "Rea1"
 }, {
-    "name": "Realme C1",
-    "company": "Realme",
+    "name": "Den treo C1",
+    "company": "dentreo",
     "img": "https://cdn.tgdd.vn/Products/Images/42/193286/realme-c1-black-600x600.jpg",
     "price": "2.490.000",
     "star": 4,
@@ -574,8 +574,8 @@ var list_products = [{
     },
     "masp": "Rea2"
 }, {
-    "name": "Realme 2 Pro 4GB/64GB",
-    "company": "Realme",
+    "name": "Den treo 2 Pro 4GB/64GB",
+    "company": "dentreo",
     "img": "https://cdn.tgdd.vn/Products/Images/42/193464/realme-2-pro-4gb-64gb-blue-600x600.jpg",
     "price": "5.590.000",
     "star": 4,
@@ -597,8 +597,8 @@ var list_products = [{
     },
     "masp": "Rea3"
 }, {
-    "name": "Philips E331",
-    "company": "Philips",
+    "name": "Cua phong E331",
+    "company": "cuaphong",
     "img": "https://cdn.tgdd.vn/Products/Images/42/139742/philips-e331-xenium-300-300x300.jpg",
     "price": "890.000",
     "star": 5,
@@ -620,8 +620,8 @@ var list_products = [{
     },
     "masp": "Phi0"
 }, {
-    "name": "Philips S329",
-    "company": "Philips",
+    "name": "Cua phong S329",
+    "company": "cuaphong",
     "img": "https://cdn.tgdd.vn/Products/Images/42/143146/philips-s329-2-300x300.jpg",
     "price": "2.390.000",
     "star": 3,
@@ -643,8 +643,8 @@ var list_products = [{
     },
     "masp": "Phi1"
 }, {
-    "name": "Philips E103",
-    "company": "Philips",
+    "name": "Cua phong E103",
+    "company": "cuaphong",
     "img": "https://cdn.tgdd.vn/Products/Images/42/73727/philips-e103-9-300x300.jpg",
     "price": "260.000",
     "star": 5,
@@ -666,8 +666,8 @@ var list_products = [{
     },
     "masp": "Phi2"
 }, {
-    "name": "Vivo V11",
-    "company": "Vivo",
+    "name": "Rem cua V11",
+    "company": "Remcua",
     "img": "https://cdn.tgdd.vn/Products/Images/42/188828/vivo-v11-600x600.jpg",
     "price": "10.990.000",
     "star": 0,
@@ -689,8 +689,8 @@ var list_products = [{
     },
     "masp": "Viv0"
 }, {
-    "name": "Vivo V9",
-    "company": "Vivo",
+    "name": "Rem cua V9",
+    "company": "remcua",
     "img": "https://cdn.tgdd.vn/Products/Images/42/155047/vivo-v9-2-1-600x600-600x600.jpg",
     "price": "7.490.000",
     "star": 5,
@@ -712,8 +712,8 @@ var list_products = [{
     },
     "masp": "Viv1"
 }, {
-    "name": "Vivo Y85",
-    "company": "Vivo",
+    "name": "Rem cua Y85",
+    "company": "remcua",
     "img": "https://cdn.tgdd.vn/Products/Images/42/156205/vivo-y85-red-docquyen-600x600.jpg",
     "price": "4.990.000",
     "star": 4,
@@ -735,8 +735,8 @@ var list_products = [{
     },
     "masp": "Viv2"
 }, {
-    "name": "Vivo Y71",
-    "company": "Vivo",
+    "name": "Rem cua Y71",
+    "company": "remcua",
     "img": "https://cdn.tgdd.vn/Products/Images/42/158585/vivo-y71-docquyen-600x600.jpg",
     "price": "3.290.000",
     "star": 4,
@@ -758,8 +758,8 @@ var list_products = [{
     },
     "masp": "Viv3"
 }, {
-    "name": "Mobell M789",
-    "company": "Mobell",
+    "name": "Ke sach M789",
+    "company": "kesach",
     "img": "https://cdn.tgdd.vn/Products/Images/42/92016/mobell-m789-8-300x300.jpg",
     "price": "550.000",
     "star": 4,
@@ -781,8 +781,8 @@ var list_products = [{
     },
     "masp": "Mobe0"
 }, {
-    "name": "Mobell Rock 3",
-    "company": "Mobell",
+    "name": "Ke sach Rock 3",
+    "company": "kesach",
     "img": "https://cdn.tgdd.vn/Products/Images/42/112837/mobell-rock-3-2-300x300.jpg",
     "price": "590.000",
     "star": 4,
@@ -804,8 +804,8 @@ var list_products = [{
     },
     "masp": "Mobe1"
 }, {
-    "name": "Mobell S60",
-    "company": "Mobell",
+    "name": "Ke sach S60",
+    "company": "kesach",
     "img": "https://cdn.tgdd.vn/Products/Images/42/193271/mobell-s60-red-1-600x600.jpg",
     "price": "1.790.000",
     "star": 0,
