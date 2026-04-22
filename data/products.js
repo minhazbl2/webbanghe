@@ -68,7 +68,7 @@ var list_products = [{
     },
     "masp": "ghe0"
 }, {
-    "name": "Giuong ngu 5.1 Plus",
+    "name": "giuongngu 5.1 Plus",
     "company": "giuongngu",
     "img": "img/products/nokia-51-plus-black-18thangbh-400x400.jpg",
     "price": "4.790.000",
@@ -390,7 +390,7 @@ var list_products = [{
     },
     "masp": "bantho3"
 }, {
-    "name": "Tu lanh Mate 20 Pro",
+    "name": "tulanh Mate 20 Pro",
     "company": "tulanh",
     "img": "img/products/huawei-mate-20-pro-green-600x600.jpg",
     "price": "21.990.000",
@@ -413,7 +413,7 @@ var list_products = [{
     },
     "masp": "tulanh0"
 }, {
-    "name": "Tu lanh Nova 3",
+    "name": "tulanh Nova 3",
     "company": "tulanh",
     "img": "img/products/huawei-nova-3-2-600x600.jpg",
     "price": "9.990.000",
@@ -436,7 +436,7 @@ var list_products = [{
     },
     "masp": "tulanh1"
 }, {
-    "name": "Tu lanh Y5 2017",
+    "name": "tulanh Y5 2017",
     "company": "tulanh",
     "img": "img/products/huawei-y5-2017-300x300.jpg",
     "price": "1.990.000",
@@ -459,7 +459,7 @@ var list_products = [{
     },
     "masp": "tulanh2"
 }, {
-    "name": "Giuong ngu black future",
+    "name": "giuongngu black future",
     "company": "giuongngu",
     "img": "https://cdn.tgdd.vn/Products/Images/42/22701/dien-thoai-di-dong--1280-dienmay.com-l.jpg",
     "price": "999.999.000",
@@ -1125,7 +1125,7 @@ var list_products = [{
     },
     "masp": "thamtrai6"
 }, {
-    "name": "Tu lanh Nova 2i",
+    "name": "tulanh Nova 2i",
     "company": "tulanh",
     "img": "https://cdn.tgdd.vn/Products/Images/42/157031/samsung-galaxy-a6-2018-2-600x600.jpg",
     "price": "4.490.000",
