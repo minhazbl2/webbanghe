@@ -459,8 +459,8 @@ var list_products = [{
     },
     "masp": "tulanh2"
 }, {
-    "name": " black future",
-    "company": "",
+    "name": "Giuong ngu black future",
+    "company": "giuongngu",
     "img": "https://cdn.tgdd.vn/Products/Images/42/22701/dien-thoai-di-dong--1280-dienmay.com-l.jpg",
     "price": "999.999.000",
     "star": 5,
